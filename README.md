@@ -1,7 +1,7 @@
 # be3-testing-docker
 
 API REST de Tienda de Productos con autenticación JWT, tests funcionales exhaustivos e imagen Docker optimizada.  
-Entrega final — **Backend III: Testing y Escalabilidad** — CoderHouse.
+**Backend III: Testing y Escalabilidad** 
 
 ---
 
