@@ -1,0 +1,17 @@
+services:
+  app:
+    container_name: be3_testing_docker_app
+    build:
+      context: .
+      dockerfile: Dockerfile
+    image: be3-testing-docker:latest
+    ports:
+      - "8000:8000"
+    environment:
+      NODE_ENV: production
+      PORT: 8000
+      JWT_SECRET: CambiameEnProduccion
+      LOG_LEVEL: info
+    volumes:
+      - ./src/logs:/app/logs
+    restart: unless-stopped
