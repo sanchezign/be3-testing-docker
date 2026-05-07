@@ -128,3 +128,9 @@ docker pull TU_USUARIO/be3-testing-docker:latest
 ## Imagen DockerHub
 
 🔗 `https://hub.docker.com/r/TU_USUARIO/be3-testing-docker`
+
+## 📚 Documentación
+
+Puedes consultar la documentación completa del proyecto aquí:
+
+[Ver documentación](https://docs.google.com/document/d/1U6C9Pz3Y8KeS7ZmDXBuBHEq9aRRP7bjC/edit?usp=drive_link)
